@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  font-size: 37px !important;
+  color: #fff;
+  font-weight: 900;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #626362;
+  height: 115px;
+}
+
+main {
+  float: left;
+  width: 80%;
+}
+
+article {
+  background-color: #78668a;
+  height: 130px;
+  width: 100%;
+  float: left;
+  border-bottom: 1px white solid;
+}
+
+aside {
+  background-color: #a56daa;
+  height: 393px;
+  width: 20%;
+  float: left;
+}
+
+section {
+  background-color: #242b2a;
+  height: 400px;
+}
+
+footer {
+  background-color: #ed6464;
+  height: 120px;
+  width: 100%;
+  float: left;
+}
